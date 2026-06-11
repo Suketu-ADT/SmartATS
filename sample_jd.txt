@@ -1,0 +1,13 @@
+Software Engineer - Machine Learning
+
+We are looking for an experienced Software Engineer with a strong background in Machine Learning and Python.
+The ideal candidate will have experience with deep learning frameworks like PyTorch or TensorFlow, and NLP libraries like HuggingFace Transformers.
+Responsibilities:
+- Build and deploy scalable ML models.
+- Work closely with the data science team.
+- Optimize model performance for production.
+Requirements:
+- Strong programming skills in Python.
+- Experience with Git, Docker, and CI/CD pipelines.
+- Knowledge of RESTful APIs.
+- Excellent problem-solving skills.
